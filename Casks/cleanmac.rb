@@ -8,7 +8,7 @@ cask "cleanmac" do
   homepage "https://cleanmac.app"
 
   app "cleanmac.app"
-  binary "#{appdir}/cleanmac.app/Contents/MacOS/cleanmac"
+  binary "#{appdir}/cleanmac.app/Contents/MacOS/cleanmac-ui", target: "cleanmac"
 
   zap trash: [
     "~/Library/Application Support/com.cleanmac.app",
