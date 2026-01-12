@@ -1,6 +1,6 @@
 cask "cleanmac" do
   version "0.1.0"
-  sha256 "e4323563deb0244be12f08a793b3c417d187dcc783e0d5222aa2b89ed507614a"
+  sha256 "721c374645039b4104ff569082c1c83ba516e0ed4e4696e84439542ec556323a"
 
   url "https://cleanmac.app/cleanmac.dmg"
   name "cleanmac"
